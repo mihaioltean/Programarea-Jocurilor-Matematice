@@ -52,7 +52,7 @@ int main(void)
     unsigned int stacks[max_num_stacks];
     unsigned int num_stacks;
 // read data
-    if (!read_data("nim.in", &num_stacks, stacks)){
+    if (!read_data("in1.txt", &num_stacks, stacks)){
         printf("Cannot find/read file!\n");
         getchar();
         return 0;
