@@ -1,19 +1,19 @@
-- Kovacs Sandor,  Turbo Pascal- Ghid de utilizare,  Editura Microinformatica, Cluj-Napoca, 1992.
+- Sandor Kovacs, __Turbo Pascal - Ghid de utilizare__,  Editura Microinformatica, Cluj-Napoca, 1992.
 
-- Oltean Mihai, Probleme rezolvate în Pascal, Editura Albastră (grupul Microinformatica), Cluj-Napoca, 1995.
+- Mihai Oltean, __Probleme rezolvate în Pascal__, Editura Albastră (grupul Microinformatica), Cluj-Napoca, 1995.
 
-- Tomescu Ioan, Probleme de combinatorică și teoria grafurilor, Editura Didiactică și Pedagogică, București, 1981.
+- Ioan Tomescu, __Probleme de combinatorică și teoria grafurilor__, Editura Didiactică și Pedagogică, București, 1981.
 
-- E.R.Berlekamp, J.H.Conway,R.K.Guy, Winning ways for your mathematical plays, Academic Press, London, 1982.
+- Elwyn Ralph Berlekamp, John Horton Conway, Richard K. Guy, __Winning ways for your mathematical plays__, Academic Press, London, 1982.
 
-- M. Gardner, Amuzamente matematice, Editura Ștințifică, București, (traducere de R.Theodorescu), 1968.
+- Martin Gardner, __Amuzamente matematice__, Editura Ștințifică, București, (traducere de R.Theodorescu), 1968.
 
-- M. Gardner, Alte amuzamente matematice, Editura Ștințifică, București, (traducere de Al.Butucelea), 1970.
+- Martin Gardner, __Alte amuzamente matematice__, Editura Ștințifică, București, (traducere de Al.Butucelea), 1970.
 
-- Gh.Păun, Între matematică și jocuri, Editura Albatros, Colecția Cristal, București, 1986.
+- Gheorghe Păun, __Între matematică și jocuri__, Editura Albatros, Colecția Cristal, București, 1986.
 
-- Gh. Păun, Jocuri logice competitive, Editura Sport-Turism, București, 1990.
+- Gheorghe Păun, __Jocuri logice competitive__, Editura Sport-Turism, București, 1990.
 
-- George Ciucu, Marius Iosifescu, Radu Theodorescu, Teoria Jocurilor, Editura Tehnică, S.S.M.R, București, 1965.
+- George Ciucu, Marius Iosifescu, Radu Theodorescu, __Teoria Jocurilor__, Editura Tehnică, S.S.M.R, București, 1965.
 
-- *. Probleme de matematică traduse din revista sovietică Kvant, Editura didiactică și Pedagogică, București, (traducerea și selectarea-Lector univ. dr. Horea Banea), 1983.
+- *., __Probleme de matematică traduse din revista sovietică Kvant__, Editura didiactică și Pedagogică, București, (traducerea și selectarea-Lector univ. dr. Horea Banea), 1983.
