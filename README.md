@@ -17,7 +17,7 @@ The Programming of Mathematical Games
 
 ## Publication coordinates:
 
-Oltean Mihai, __Programarea Jocurilor Matematice__, Editura Albastră, Grupul Microinformatica, Cluj Napoca, ISBN: 973-9215-37-8, 160 pages, 1996, (in Romanian).
+Oltean Mihai, __Programarea Jocurilor Matematice__, Editura Albastră, Grupul Microinformatica, Cluj Napoca, 160 pages, 1996, ISBN: 973-9215-37-8, (in Romanian).
 
 ## References
 

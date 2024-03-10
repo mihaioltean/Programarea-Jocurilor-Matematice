@@ -1,3 +1,9 @@
+# Programarea Jocurilor Matematice 
+
+Oltean Mihai, __Programarea Jocurilor Matematice__, Editura Albastră, Grupul Microinformatica, Cluj Napoca, 1996.
+
+## References
+
 - Sandor Kovacs, __Turbo Pascal - Ghid de utilizare__,  Editura Microinformatica, Cluj-Napoca, 1992.
 
 - Mihai Oltean, __Probleme rezolvate în Pascal__, Editura Albastră (grupul Microinformatica), Cluj-Napoca, 1995.
