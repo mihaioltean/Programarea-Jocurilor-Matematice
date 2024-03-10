@@ -10,7 +10,7 @@ Oltean Mihai, __Programarea Jocurilor Matematice__, Editura Albastră, Grupul Mi
 
 - Ioan Tomescu, __Probleme de combinatorică și teoria grafurilor__, Editura Didiactică și Pedagogică, București, 1981.
 
-- Elwyn Ralph Berlekamp, John Horton Conway, Richard K. Guy, __Winning ways for your mathematical plays__, Academic Press, London, 1982.
+- Elwyn Ralph Berlekamp, John Horton Conway, Richard K. Guy, [Winning ways for your mathematical plays](https://doi.org/10.1201/9780429487330), Academic Press, London, 1982.
 
 - Martin Gardner, __Amuzamente matematice__, Editura Ștințifică, București, (traducere de R.Theodorescu), 1968.
 
